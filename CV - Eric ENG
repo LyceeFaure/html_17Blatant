@@ -1,0 +1,79 @@
+<aside></aside><!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <meta charset="UTF-8" />
+    <title>CV - Eric ENG</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header>
+        <aside>
+        <img id="photo" src="https://ci3.googleusercontent.com/mail-img-att/AGAZnRo5SZBlbGDLW1yShJk2MHgJcu04eIFBkt6iS1iUfwZWXpp5iS3DfeskchKuJRqe71LQbglUeO-NB9AyhGGPqbVX_1PWzfj0lSVoASVRsmWJ1M3bd58QX3Gfj9qfpoWdgVIt0H12l_RHnHe8_mkQux7kx9yA4M1LWHhxHu70UY7mM4spX3hBfcoG6ykxNcLW8fWsKXaCHCtEyLc_QehxmUMib0Fcd6fYYhYrzb40MTsX0lsKBENDZB-aUtf-h7Qc4pwCYtGMCQB7ewW8kk2rocGaCGggT0yyGfXdDHzzkUnTGV-EUHRgnsnkI1sQgrtWABc0ok-3aubaodrlxmuCDXV91kfuovs0-kAJTGfGDHT7JmE-epi-rC2sQz5mQGCguV54kkSf5T-KWj2f9yIy8h5aBqKxbpbpZMqPaqF3fp3fmCescJPWUH3xUnrG42p4jjrTjjpryP1_kB7QdPeYzOjy12sS4IJh6gQlOHfQhMHBJeyVE-qId70TfAZUCdZWw387mZWRfFSfXBUPyzKAB6sVHEMCR7Qj3SHTL0VjBQxN_5k0yWTUTbia-oSl_uUnNcihkFN66ltLsoRMyiaJMNo5f4EibQ4GpUviJrPiw_LnGp0jaUN2_yxXg_XyVfjcKIPUXhrcxnkSVa5tkSzAwWq_6oU77Gu6u9OlF9bg4KUH_5tbFwu7SsGD3g5O6wf3_4G04-hppI4YmYVuDqFIZwUyNbM9OYi9bKDzrlDRjfmNjIIjB2qooTMWWUFo_EvxFzBPbKts_wFZTQZLoLv46PqMtY_DGrKVLp5HLnSxqRO2mmfGews7ER_LBDsrlaws-X7Y5cglWVU0YNALRPKZt8-D4-PeDd-Uc94NKS94WWjE22ie1wZLmtYHK74mOsJ-ZVh3TtDxYmRjD45Sg8hTihOvS2Zq90dLEd4dvdleqTOp4TVWU--rfknJg0TVHo3MRie9gbzFC3ih14cZzpZvCtd_ymSLPbO1jeeZG65xU2_o5B5-FZIe99hOYNTeUIZFVattnsduhf05R7XI5qgrRHP7d_Q=s0-l75-ft"  alt="Une photo de geek" />
+      </aside>
+
+
+
+      <h1>Eric ENG </h1>
+
+      <a id="email" href="eric.eng94@gmail.com">eric.eng94@gmail.com</a>
+
+      <p>Futur titulaire d’un baccalauréat à spécialités scientifiques, je suis très fortement intéressé par les opportunités de stages liées aux métiers suivants :</p>
+      <br />
+
+      <ul>
+        <li>Dévelopeur web</li>
+        <li>Webmaster</li>
+        <li>Ingénieur informatique</li>
+      </ul>
+    </header>
+
+    <section>
+      <h2>Formation</h2>
+      <h3>Bac général, préparé au Lycée Claude Monet, à Paris</h3>
+      <p>Spécialités et option :</p>
+      <ul>
+        <li>Numérique et Science Informatique</li>
+        <li>Mathematiques</li>
+      </ul> 
+      
+      <h2>Langues</h2>
+      <h3>Cursus scolaire</h3>
+      <ul>
+        <li>Anglais : <span class="gris_italique"> Lu, écrit, parlé </span> </li>
+        <li>Chinois</li>
+      </ul> 
+
+
+      <h2>Connaissances informatiques</h2>
+      <h3>Langages de programmation</h3>
+      <p>Python, HTML, CSS</p>
+      <br />
+      <h3>Systèmes d'exploitation</h3>
+      <p>Microsoft Windows, Linux</p>
+
+
+      <h2>Expériences professionnelles</h2>
+      <h3>Entreprise Pates Thai <span class="gris_italique">Stage de 3ème : Décembre 2023</span></h3>
+      <ul>
+        <li>Cuisine</li>
+        <li>Service en salle </li>
+      </ul>  
+      <br/>
+
+      <h2>Loisirs</h2>
+      <ul>
+        <li><a href="https://fr.wikipedia.org/wiki/Danse_du_lion">Danse du lion</a></li>
+        <li><a href="https://fr.wikipedia.org/wiki/Jeu_vid%C3%A9o">Jeux vidéos</a></li>
+        <li><a href="https://fr.wikipedia.org/wiki/Musculation">Musculatation</a></li>
+      </ul>  
+    </section>
+    
+    <footer>
+        <h2>Réponses aux questions de cette activité</h2>
+        <p>I.a. Réponse à la question I.a.</p>
+    </footer>
+    
+  </body>
+</html>
